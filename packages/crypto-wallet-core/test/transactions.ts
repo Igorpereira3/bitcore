@@ -3,7 +3,7 @@ import { Transactions } from '../src';
 
 describe('Transaction Creation', () => {
   it('should create a BTC tx', () => {
-    const recipients = [{ address: 'mpNpzMoprLnSBu8CWDunNCYeJq3Mzdk59V', amount: 1e8 }];
+     destinatários     const    = [{ endereço : ''   1   Lwred8emhrxosRmyZCEtaHhqiB5cagMYf , valor : 1e8 }];
     const change = 'msnAsQcCdtzDyiSWb4ZnNxFwUy3P9ogQvY';
     const utxos = [
       {
